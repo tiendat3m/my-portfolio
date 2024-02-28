@@ -14,8 +14,8 @@ export const skills = {
 
         },
         {
-            title: 'C++',
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png'
+            title: 'Sass',
+            logo: 'https://sasa.gallerycdn.vsassets.io/extensions/sasa/vscode-sass-format/1.1.7/1595964700138/Microsoft.VisualStudio.Services.Icons.Small'
         },
 
     ],
@@ -26,11 +26,11 @@ export const skills = {
         },
         {
             title: 'GitHub',
-            logo: 'https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png'
+            logo: 'https://github.gallerycdn.vsassets.io/extensions/github/vscode-pull-request-github/0.83.2024022817/1709141670756/Microsoft.VisualStudio.Services.Icons.Small'
         },
         {
-            title: 'Firebase',
-            logo: 'https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png'
+            title: 'Visual Studio Code',
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png'
         },
         {
             title: 'mongoDB',
@@ -40,15 +40,11 @@ export const skills = {
     ],
     framework: [
         {
-            title: 'React.Js',
+            title: 'ReactJs',
             logo: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png'
         },
         {
-            title: 'React Native',
-            logo: 'https://img.freepik.com/free-icon/android_318-674214.jpg?w=2000'
-        },
-        {
-            title: 'Node.Js / Express.js',
+            title: 'NodeJs',
             logo: 'https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png'
         },
         {
@@ -59,11 +55,6 @@ export const skills = {
             title: 'Tailwind CSS',
             // logo: 'https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'
             logo: 'https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png'
-        },
-        {
-            title: 'NextJS',
-            // logo: 'https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png'
-            logo: 'https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp'
         },
     ]
 }

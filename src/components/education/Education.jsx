@@ -9,8 +9,9 @@ const Eduction = () => {
                     <div className="bar1"></div>
                 </div>
                 <div className="partright">
-                    <h2>Dr. Ram Manohar Lohia Avadh University, Ayodhya</h2>
-                    <h3>B.Tech, Information Technology • Aug 2020 - Aug 2024</h3>
+                    <h2>Ho Chi Minh University of Technology
+                        and Education</h2>
+                    <h3>F.Tech, Information Technology • 2020 - 2024</h3>
                     <h4 className="cw-title">CourseWork.</h4>
                     <div className="cousework-c">
                         <h5>Data Structure & Algorithm</h5>
