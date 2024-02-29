@@ -78,115 +78,115 @@ export const projects = {
             teckstack: ["React", "Tailwind", "Node.js"]
         },
         {
-            image: 'https://img.freepik.com/premium-vector/comic-speech-bubbles-with-text-quiz-night-neon-icon-symbol-sticker-tag-special-offer-label_100456-7641.jpg',
-            title: 'Quiz Menia | Live Site N/A',
-            description: 'A Mobile application that display question, fetching from API and user can solve those MCQ question and get real time score',
+            image: 'https://s3-alpha.figma.com/hub/file/633847288/75077dd2-0d1b-42c8-b650-ab85ff70272c-cover.png',
+            title: 'Weather App',
+            description: 'Project can help user see the weather in any city over the world with some info about temperature, humidity, windspeed, etc... You can use the voice assistance function to ask your wanting city',
             sourcecode: 'https://github.com/tiendat3m/weather-app',
             livelink: 'https://tiendat3m.github.io/weather-app/',
             teckstack: ["HTML", "CSS", "Javascript"]
         },
-        {
-            image: 'https://img.freepik.com/premium-vector/man-with-magnifying-glass-travel-book-tickets-hotel-room-apartment-reservation-service-transfer-transportation-traveling_48369-37531.jpg?w=360',
-            title: 'Make My Booking | Live Site N/A',
-            description: 'A simple mobile App in which users can see hotels by location and they can book rooms in hotels',
-            sourcecode: 'https://github.com/piyush362/page-not-found',
-            livelink: '',
-            teckstack: ["React", "React Native", "Node.js"]
-        },
-        {
-            image: 'https://static.vecteezy.com/system/resources/thumbnails/012/494/550/small/inventory-control-system-concept-professional-manager-and-worker-are-checking-goods-and-stock-supply-inventory-management-with-goods-demand-vector.jpg',
-            title: 'INVENTORY MANAGEMENT SYSTEM | LIVE site available',
-            description: 'Inventory management system, able to perform CRUD operation to manage stocks',
-            sourcecode: 'https://docs.google.com/document/d/1GIpTldeZ7guKhRI6tvyfHzi7PbA8Mx-qteum3VdiB8U/edit?usp=sharing',
-            livelink: 'https://myinventorysys.netlify.app/',
-            teckstack: ["ReactJs", "Node.js", "mongoDB", "ExpressJs"]
-        },
-        {
-            image: 'https://img.freepik.com/free-vector/realistic-horizontal-cinema-movie-time-poster-with-3d-glasses-snacks-tickets-clapper-reel-blue-background-with-bokeh-vector-illustration_1284-77013.jpg',
-            title: 'MOVIE WORLD- Movies search | LIVE',
-            description: 'A simple React Page that fetch movies details from API and show it on card, users can search movies too.',
-            sourcecode: 'https://github.com/piyush362/movie-search',
-            livelink: 'https://movies-search23.netlify.app/',
-            teckstack: ["ReactJs", "REST API", "Axios"]
-        },
-        {
-            image: 'https://res-2.cloudinary.com/under-the-hood-learning/image/upload/q_auto/v1/blog_images/MVC-Vanilla-JS.png',
-            title: 'VANILLA JS PROJECTS | LIVE',
-            description: 'Few project (Rock Paper Scissors, Tip calculator, Color Flipper) that is built using vanilla js ( i.e: without any javascript framework)',
-            sourcecode: 'https://github.com/piyush362/Basic-JavaScript-Projects',
-            livelink: 'https://piyush362.github.io/Basic-JavaScript-Projects/',
-            teckstack: ["JavaScript"]
-        },
-    ],
-    uiProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
-    ],
-    reactProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
+        //         {
+        //             image: 'https://img.freepik.com/premium-vector/man-with-magnifying-glass-travel-book-tickets-hotel-room-apartment-reservation-service-transfer-transportation-traveling_48369-37531.jpg?w=360',
+        //             title: 'Make My Booking | Live Site N/A',
+        //             description: 'A simple mobile App in which users can see hotels by location and they can book rooms in hotels',
+        //             sourcecode: 'https://github.com/piyush362/page-not-found',
+        //             livelink: '',
+        //             teckstack: ["React", "React Native", "Node.js"]
+        //         },
+        //         {
+        //             image: 'https://static.vecteezy.com/system/resources/thumbnails/012/494/550/small/inventory-control-system-concept-professional-manager-and-worker-are-checking-goods-and-stock-supply-inventory-management-with-goods-demand-vector.jpg',
+        //             title: 'INVENTORY MANAGEMENT SYSTEM | LIVE site available',
+        //             description: 'Inventory management system, able to perform CRUD operation to manage stocks',
+        //             sourcecode: 'https://docs.google.com/document/d/1GIpTldeZ7guKhRI6tvyfHzi7PbA8Mx-qteum3VdiB8U/edit?usp=sharing',
+        //             livelink: 'https://myinventorysys.netlify.app/',
+        //             teckstack: ["ReactJs", "Node.js", "mongoDB", "ExpressJs"]
+        //         },
+        //         {
+        //             image: 'https://img.freepik.com/free-vector/realistic-horizontal-cinema-movie-time-poster-with-3d-glasses-snacks-tickets-clapper-reel-blue-background-with-bokeh-vector-illustration_1284-77013.jpg',
+        //             title: 'MOVIE WORLD- Movies search | LIVE',
+        //             description: 'A simple React Page that fetch movies details from API and show it on card, users can search movies too.',
+        //             sourcecode: 'https://github.com/piyush362/movie-search',
+        //             livelink: 'https://movies-search23.netlify.app/',
+        //             teckstack: ["ReactJs", "REST API", "Axios"]
+        //         },
+        //         {
+        //             image: 'https://res-2.cloudinary.com/under-the-hood-learning/image/upload/q_auto/v1/blog_images/MVC-Vanilla-JS.png',
+        //             title: 'VANILLA JS PROJECTS | LIVE',
+        //             description: 'Few project (Rock Paper Scissors, Tip calculator, Color Flipper) that is built using vanilla js ( i.e: without any javascript framework)',
+        //             sourcecode: 'https://github.com/piyush362/Basic-JavaScript-Projects',
+        //             livelink: 'https://piyush362.github.io/Basic-JavaScript-Projects/',
+        //             teckstack: ["JavaScript"]
+        //         },
+        //     ],
+        //     uiProject: [
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         }
+        //     ],
+        //     reactProject: [
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         }
 
-    ],
-    reactNativeProject: [
-        {
-            image: '/assests/images/project.png',
-            title: 'Social Birds',
-            description: 'A social media application ',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        },
-        {
-            image: '/assests/images/project.png',
-            title: 'Some Title',
-            description: '',
-            sourcecode: '',
-            livelink: ''
-        }
+        //     ],
+        //     reactNativeProject: [
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Social Birds',
+        //             description: 'A social media application ',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         },
+        //         {
+        //             image: '/assests/images/project.png',
+        //             title: 'Some Title',
+        //             description: '',
+        //             sourcecode: '',
+        //             livelink: ''
+        //         }
 
     ]
 }
