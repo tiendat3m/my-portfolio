@@ -62,28 +62,28 @@ export const skills = {
 export const projects = {
     allProject: [
         {
-            image: 'https://res.cloudinary.com/dkr75ykb4/image/upload/v1688570877/Screenshot_2023-07-05_205629_p3bysp.png',
-            title: 'LeetCode Lite ( Under Development )',
-            description: 'A LeetCode Clone website that have auth section to create users and reset password and most important it have real DSA problems which you can solve in this website absolutely like real LeetCode',
-            sourcecode: '',
-            livelink: 'https://leetcodelite.netlify.app/',
-            teckstack: ["React", "FireBase", "Tailwind CSS"]
+            image: 'https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_A88XPFHokXRDEfA8hW22T3za6WAK%26teamId%3Dtien-dats-projects-817f1529%26withStatus%3D1&w=640&q=75&dpl=dpl_Bg4SViBcuwpGGQEBd47FhcXUp7s1',
+            title: 'Movie App',
+            description: 'Responsive React Movies App With API',
+            sourcecode: 'https://github.com/tiendat3m/d-movie',
+            livelink: 'https://d-movie.vercel.app/',
+            teckstack: ["React", "Scss"]
         },
         {
-            image: 'https://img.freepik.com/free-vector/colorful-icons-set-concept_79603-1267.jpg',
-            title: 'Social Birds | Live Site N/A',
-            description: 'A social media Mobile application like twitter where user can post there birds(soo called tweet) and can do CURD operation',
-            sourcecode: '',
-            livelink: 'https://github.com/piyush362/page-not-found',
-            teckstack: ["React", "React Native", "Node.js"]
+            image: 'https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_CbfNJiQFTcLLXg38YKb8KP2vtyzH%26teamId%3Dtien-dats-projects-817f1529%26withStatus%3D1&w=640&q=75&dpl=dpl_Bg4SViBcuwpGGQEBd47FhcXUp7s1',
+            title: 'Music App| ZingMp3',
+            description: 'A music web application like ZingMp3 where user can search and listen their favourite songs, artist',
+            sourcecode: 'https://github.com/tiendat3m/clone-zingmp3',
+            livelink: 'https://clone-zingmp3.vercel.app/',
+            teckstack: ["React", "Tailwind", "Node.js"]
         },
         {
             image: 'https://img.freepik.com/premium-vector/comic-speech-bubbles-with-text-quiz-night-neon-icon-symbol-sticker-tag-special-offer-label_100456-7641.jpg',
             title: 'Quiz Menia | Live Site N/A',
             description: 'A Mobile application that display question, fetching from API and user can solve those MCQ question and get real time score',
-            sourcecode: '',
-            livelink: 'https://github.com/piyush362/page-not-found',
-            teckstack: ["React", "React Native", "Node.js"]
+            sourcecode: 'https://github.com/tiendat3m/weather-app',
+            livelink: 'https://tiendat3m.github.io/weather-app/',
+            teckstack: ["HTML", "CSS", "Javascript"]
         },
         {
             image: 'https://img.freepik.com/premium-vector/man-with-magnifying-glass-travel-book-tickets-hotel-room-apartment-reservation-service-transfer-transportation-traveling_48369-37531.jpg?w=360',
