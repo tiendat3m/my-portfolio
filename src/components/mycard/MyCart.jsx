@@ -33,7 +33,7 @@ const Mycard = () => {
             src={avatar}
             alt="profile"
           />
-          <p><a target="_blank" href="https://www.linkedin.com/in/%C4%91%E1%BA%A1t-phan-5568ab200/">LinkedIn</a></p>
+          <p><a target="_blank" href="https://github.com/tiendat3m">GitHub</a></p>
         </div>
       </div>
     </div>
