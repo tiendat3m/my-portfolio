@@ -21,7 +21,7 @@ const About = () => {
                         also practiced coding by solving problems on popular coding platforms like Leetcode.
                     </p>
                     <a
-                        href="https://drive.google.com/file/d/1MVHnJrILhXwh73CboodUjAWBZOuWU8nk/view?usp=drive_link"
+                        href="https://drive.google.com/file/d/1jyoU98frbd3MJomZxeV7zZJCa4gxLFwm/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                     >
