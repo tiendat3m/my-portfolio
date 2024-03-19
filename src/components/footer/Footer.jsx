@@ -7,14 +7,14 @@ const Footer = () => {
             <div className="footeritem">
                 <div className="footerlink">
                     <a
-                        href="https://www.linkedin.com/in/piyushsagar362/"
+                        href="https://www.linkedin.com/in/tiendat3m/"
                         target="_blank"
                         rel="noreferrer"
                     >
                         <p>LINKEDIN</p>
                     </a>
                     <a
-                        href="https://github.com/piyush362"
+                        href="https://github.com/tiendat3m"
                         target="_blank"
                         rel="noreferrer"
                     >
